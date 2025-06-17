@@ -12,7 +12,7 @@ cat > "$DESKTOP_FILE" <<EOF
 Type=Application
 Name=Camera Module
 Comment=Launch the camera-module demo
-Exec='cd ${PROJECT_DIR} && env LD_LIBRARY_PATH=${PROJECT_DIR}/lib python main.py'
+Exec=bash -c "cd ${PROJECT_DIR} && env LD_LIBRARY_PATH=${PROJECT_DIR}/lib python main.py"
 Path=$PROJECT_DIR
 Icon=utilities-camera        # 可改为 $PROJECT_DIR/icon.png
 Terminal=true                # 如不想看日志可设 false
