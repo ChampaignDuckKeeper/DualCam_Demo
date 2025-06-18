@@ -6,3 +6,4 @@ Quick Launch:
     
     LD_LIBRARY_PATH=./lib python main.py
     
+For Details, please refer to User Guide.pdf
