@@ -12,7 +12,7 @@ import os
 
 # 获取当前脚本的绝对路径
 current_dir = os.path.dirname(os.path.abspath(__file__))
-
+#blahblah
 # 构建lib路径
 lib_path = os.path.join(current_dir, "lib")
 
