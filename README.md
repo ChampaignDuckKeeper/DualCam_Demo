@@ -28,11 +28,11 @@
   
   ---
   
-  ## Future Sections (Template)
+  <!--## Future Sections (Template)-->
   <!-- These sections can be expanded later -->
   
-  ### Advanced Configuration
+  <!--### Advanced Configuration-->
   <!-- Content placeholder -->
   
-  ### Known Issues
+  <!--### Known Issues-->
   <!-- Content placeholder -->
